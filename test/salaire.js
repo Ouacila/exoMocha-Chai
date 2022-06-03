@@ -1,4 +1,3 @@
-var expect = require('chai').expect
 var assert = require('assert')
 
 function verifId (id_emp){

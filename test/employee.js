@@ -28,6 +28,7 @@ function grade(grade) {
 }
 function verifAdress (adress) {
     if (adress.length>20 && adress.includes(" "))
+    // Consigne: au moins deux espaces dans l'adresse
     return true
 }
 
